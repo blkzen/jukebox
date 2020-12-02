@@ -11,7 +11,7 @@ Creating music with OpenAI's Jukebox model
 
 
 ## ATTEMPTS
-Attempt 1:
+Attempt 1: Low quality sample generated.
 
 
 
