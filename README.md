@@ -11,7 +11,12 @@ Creating music with OpenAI's Jukebox model
 
 
 ## ATTEMPTS
-Attempt 1: Low quality sample generated. High quality upsampled attempted but failed due to lack of cloud storage space.
+### Attempt 1: 
+Scripted on Google Colab. 
+Low quality sample generated. 
+High quality upsampled audio attempted but failed due to lack of cloud storage space.
+
+
 
 
 
