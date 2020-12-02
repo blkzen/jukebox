@@ -1,5 +1,5 @@
 # Jukebox
-Creating music with OpenAI's Jukebox
+Creating music with OpenAI's Jukebox model
 
 ## GOALS
 1. Create new, original music based on music fed to the machine
