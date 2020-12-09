@@ -1,6 +1,6 @@
-# Jukebox
+# Jukebox with My Custom Music
 Creating music with OpenAI's Jukebox model
-
+My Artist Name: BLKZEN
 
 
 ## GOALS
