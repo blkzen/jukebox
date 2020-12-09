@@ -20,7 +20,7 @@ High quality upsampled audio attempted but failed due to lack of cloud storage s
 Scripted on Google Colab.
 Low-ok quality sample generated.
 Ran a script to boost cloud computing capacity.
-High quality upsampled audio attempted but failed due to lack of cloud storage space.
+High quality upsampled audio attempted again but it failed due to lack of cloud storage space.
 
 #### Suggestion:  Run model locally with modfified hyperparameters on RTX 2080 GPU unit
 
