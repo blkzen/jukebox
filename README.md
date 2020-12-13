@@ -1,4 +1,4 @@
-# Jukebox with My Custom Music
+# Jukebox (with my own music)
 Creating music with OpenAI's Jukebox model
 My Artist Name: BLKZEN
 
