@@ -34,7 +34,9 @@ High quality upsampled audio attempted again but still failed due to lack of clo
 ### Attempt 3: 
 Scripted on Jupyter Notebook
 
+Low-ok quality sample generated.
 
+ERROR
 
 
 ## STRATEGY
