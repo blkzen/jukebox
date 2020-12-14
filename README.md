@@ -24,7 +24,9 @@ High quality upsampled audio attempted again but still failed due to lack of clo
 
 #### Suggestion:  Run script locally on laptop with RTX 2080 GPU unit
 
-### Attempt 3:
+### Attempt 3: 
+Scripted on Jupyter Notebook
+
 
 
 
