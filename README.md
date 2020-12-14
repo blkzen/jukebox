@@ -22,7 +22,7 @@ Low-ok quality sample generated.
 Ran a script to boost cloud computing capacity.
 High quality upsampled audio attempted again but still failed due to lack of cloud storage space.
 
-#### Suggestion:  Run script locally on RTX 2080 GPU unit
+#### Suggestion:  Run script locally on laptop with RTX 2080 GPU unit
 
 ### Attempt 3:
 
