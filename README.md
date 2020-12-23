@@ -41,5 +41,8 @@ ERROR
 #### Suggestion 1: FAILED
 
 ### Attempt 4:
+Scripted on Google Colab.
+
+Ok quality sample generated(but better).
 
 ## STRATEGY
