@@ -45,4 +45,7 @@ Scripted on Google Colab.
 
 Ok quality sample generated(but better).
 
+High quality upsampled audio attempted again but failed due to time out during long loading times.
+
+#### Suggestion 2: Get Google Colab Pro
 ## STRATEGY
