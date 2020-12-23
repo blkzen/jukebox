@@ -29,7 +29,7 @@ Ran a script to boost cloud computing capacity.
 High quality upsampled audio attempted again but still failed due to lack of cloud storage space.
 
 
-#### Suggestion:  Run script locally on laptop with RTX 2080 GPU unit
+#### Suggestion 1:  Run script locally on laptop with RTX 2080 GPU unit
 
 ### Attempt 3: 
 Scripted on Jupyter Notebook
@@ -38,5 +38,8 @@ Low-ok quality sample generated.
 
 ERROR
 
+#### Suggestion 1: FAILED
+
+### Attempt 4:
 
 ## STRATEGY
