@@ -50,3 +50,4 @@ High quality upsampled audio attempted again but failed due to time out during l
 #### Suggestion 2: Get Google Colab Pro for faster gpu, more memory, and longer runtimes 
 
 ### Attempt 5: 
+Scripted on Google Colab.
