@@ -51,3 +51,6 @@ High quality upsampled audio attempted again but failed due to time out during l
 
 ### Attempt 5: 
 Scripted on Google Colab.
+
+Ok quality sample generated.
+
